@@ -3,3 +3,6 @@ placeholder text with a bit more grammar and coherence than a big pile
 of lorem ipsum. Something that could be used to easily anchor one's
 attention on a piece of text when looking at a diff. We don't want to
 get confused when merging and rebasing!
+
+This is a new paragraph that will cause a merge conflict after the first
+alter_text branch has been merged.
