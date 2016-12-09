@@ -1,0 +1,8 @@
+# Files for this example repo
+*.ignore
+*.rb
+
+# Vim temporary files
+*.swp
+*.swo
+*~
