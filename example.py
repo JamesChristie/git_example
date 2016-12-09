@@ -6,7 +6,7 @@ class SomeExampleClass:
     return self.some_value
 
   def an_instance_method_with_prefix(self):
-    return "A prefix: " + self.some_value
+    return "This is a different prefix: " + self.some_value
 
   def do_addition(self):
-    return 7 + 13
+    return 100 + 200
